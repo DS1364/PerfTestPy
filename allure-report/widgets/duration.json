@@ -1,0 +1,21 @@
+[ {
+  "uid" : "4db55a5f8a2993d8",
+  "name" : "Sample Test: Addition",
+  "time" : {
+    "start" : 1744107062314,
+    "stop" : 1744107062314,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2496c4f44232c6ff",
+  "name" : "Sample Test: Failure",
+  "time" : {
+    "start" : 1744107062331,
+    "stop" : 1744107062331,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
